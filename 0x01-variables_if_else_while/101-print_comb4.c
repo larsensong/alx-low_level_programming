@@ -1,3 +1,5 @@
+#include <conio.h>
+#include <stdlb.h>
 #include <stdio.h>
 /**
  * main - entry point
