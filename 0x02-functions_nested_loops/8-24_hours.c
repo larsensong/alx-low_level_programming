@@ -4,7 +4,7 @@
  * 00:00 to 23:59, min loop counts mins, while while hour loop counts hours
  * Return: 0
  */
-void jack_bauer(void)
+ jack_bauer(void)
 {
 	int hours = 0;
 	int minutes = 0;
