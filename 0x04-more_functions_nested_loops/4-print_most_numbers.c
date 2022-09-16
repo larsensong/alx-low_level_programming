@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * prints_most_numbers - prints no expet 2 and 4
+ * print_most_numbers - prints no expet 2 and 4
  *
  * Return: returns 0
  */
