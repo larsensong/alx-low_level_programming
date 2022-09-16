@@ -2,8 +2,7 @@
 #include <stdio.h>
 
 /**
- * main - print no 1 to 100 followed by new line but for mutiplies of 3 prints Fizz
- * instead of number and mutiples of 5 prints BUZZ
+ * main - print no 1 to 10with fixbuzz
  * Return: 0 as sucess
  */
 int main(void)
