@@ -2,16 +2,25 @@
 #include "main.h"
 
 /**
- * print_line - printa straight line
+ * print_line - print a straight line
  * @n: parameter value
  * Return: no value
  */
 
 void print_line(int n)
 {
-while (n-- > 0)
+if (n <= 0)
 {
-Putchar('-');
+_putchar('\n');
 }
-putchar('\n');
+else
+{
+int i;
+
+for (i = 1; i <= n; i++)
+{
+_putchar('_');
+}
+_putchar('\n');
+}
 }
