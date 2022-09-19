@@ -2,8 +2,10 @@
 #include <stdio.h>
 /**
  * print_array - prints n elements in an array
+ *
  * @a: pointer to array
- * @: no of array elements
+ *
+ * @n: no of array elements
  *
  * Return: void.
  */
