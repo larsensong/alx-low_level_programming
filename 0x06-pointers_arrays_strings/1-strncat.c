@@ -1,9 +1,11 @@
 #include "main.h"
 /**
- * _strncat - concatenates 2 strings and inputted byte
+ *_strncat - concatenates two strings but add inputted no of bytes
+ *
  * @dest: string to append to
  * @src: string to complete
  * @n: integer to compare index
+ * Return: return concatenated string
  */
 char *_strncat(char *dest, char *src, int n)
 {
