@@ -2,9 +2,9 @@
 /**
  * string_toupper - changes lowercase to uppercase
  * @str: parameter
- * Return: retun
+ * Return: return  character
  */
-char *string_toupper(char *)
+char *string_toupper(char *str)
 {
 int index = 0;
 while (str[index++])
