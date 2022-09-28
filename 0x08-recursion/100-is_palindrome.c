@@ -8,7 +8,7 @@ int _lenght(char *s)
 {
 if (*s == '\0')
 	return (0);
-return (i + _lenght(s + 1));
+return (1 + _lenght(s + 1));
 }
 /**
  * checkp - check if is palindrome
