@@ -10,7 +10,7 @@ int helperFunction(int num,  int i)
 {
 if (i < num)
 {
-if (num % 1 == 0)
+if (num % i == 0)
 {
 return (0);
 }
