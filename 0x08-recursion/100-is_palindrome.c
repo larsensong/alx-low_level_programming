@@ -1,4 +1,4 @@
-i#include "main.h"
+#include "main.h"
 /**
  * _lenght - check lenght of a string
  * @s: is dtring
