@@ -38,7 +38,7 @@ return (dest);
  */
 char *_strdup(char *str)
 {
-char *dest;
+char *dst;
 unsigned int size;
 if (str == 0)
 {
