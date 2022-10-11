@@ -17,7 +17,7 @@ return (len);
 }
 /**
  * _strcopy - copies a string pointed by src
- * @odest: buffer to store copy
+ * @dest: buffer to store copy
  * @src: source
  * Return: pointer to dest
  */
