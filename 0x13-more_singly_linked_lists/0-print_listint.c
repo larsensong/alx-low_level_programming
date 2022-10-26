@@ -5,7 +5,7 @@
  * @h: pointer to header in alist
  * Return: no of node in a lsit
  */
-size_t print_listint(const listint_t *h);
+size_t print_listint(const listint_t *h)
 {
 size_t nodes = 0;
 while (h)
