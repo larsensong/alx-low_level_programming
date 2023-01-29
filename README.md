@@ -4,7 +4,7 @@
 
 <div>
   <a href="https://github.com/larsensong/alx-low_level_programming">
-    <img src="https://github.com/larsensong/alx-low_level_programming/blob/master/images/icon.png" alt="Logo" width="100" height="100">
+    
   </a>
 </div>
 
@@ -26,15 +26,7 @@
   </tr>
 </table>
 
-<br>
 
-> 🖥️ **Integrated Development Environment:**
-
-<table>
-  <tr>
-<td><img alt="medium" src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white"></td>
-  </tr>
-</table>
 <br>
   
 
