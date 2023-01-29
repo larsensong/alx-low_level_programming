@@ -1,4 +1,4 @@
-> 🚧 **Project ### Alx-low_level_programming
+>Project ### Alx-low_level_programming
 
 <br>
 
@@ -37,9 +37,6 @@
 </table>
 <br>
   
-![Alt](https://repobeats.axiom.co/api/embed/50a392e676820ce03006d38197b98899827faf15.svg "Repobeats analytics image")
-
-<br>
 
 | #  | Projects Guide:                                                                      |
 |--- | ------------------------------------------------------------------------------------ |
