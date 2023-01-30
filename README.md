@@ -50,3 +50,10 @@
 | 15 | [0x0F. C - Function pointers](./0x0F-function_pointers)                              | 
 | 16 | [0x10. C - Variadic functions](./0x10-variadic_functions)                            |
 | 17 | [0x12. C -singly_linked_lists](./0x12-singly_linked_lists)                           |
+| 18 | [0x12. C -singly_linked_lists](./0x12-singly_linked_lists)                           |
+| 19 | [0x12. C -singly_linked_lists](./0x12-singly_linked_lists)                           |
+| 20 | [0x12. C -singly_linked_lists](./0x12-singly_linked_lists)                           |
+| 21 | [0x12. C -singly_linked_lists](./0x12-singly_linked_lists)                           |
+| 22 | [0x12. C -singly_linked_lists](./0x12-singly_linked_lists)                           |
+| 23 | [0x12. C -singly_linked_lists](./0x12-singly_linked_lists)                           |
+| 24 | [0x12. C -singly_linked_lists](./0x12-singly_linked_lists)                           |
