@@ -50,10 +50,10 @@
 | 15 | [0x0F. C - Function pointers](./0x0F-function_pointers)                              | 
 | 16 | [0x10. C - Variadic functions](./0x10-variadic_functions)                            |
 | 17 | [0x12. C -singly_linked_lists](./0x12-singly_linked_lists)                           |
-| 18 | [0x13. C -more_singly_linked_lists](./0x13-singly_linked_lists)                      |
-| 19 | [0x14. C -bit_manipulation](./0x14-singly_linked_lists)                           |
-| 20 | [0x15. C -file_io](./0x15-singly_linked_lists)                           |
-| 21 | [0x17. C -doubly_linked_lists](./0x17-singly_linked_lists)                           |
-| 22 | [0x18. C -dynamic_libraries](./0x18-singly_linked_lists)                           |
-| 23 | [0x1A. C -hash_tables](./0x1A-singly_linked_lists)                           |
+| 18 | [0x13. C -more_singly_linked_lists](./0x13-more_singly_linked_lists)                 |
+| 19 | [0x14. C -bit_manipulation](./0x14-bit_manipulation)                                 |
+| 20 | [0x15. C -file_io](./0x15-file_io)                                                   |
+| 21 | [0x17. C -doubly_linked_lists](./0x17-doubly_linked_lists)                           |
+| 22 | [0x18. C -dynamic_libraries](./0x18-dynamic_libraries)                               |
+| 23 | [0x1A. C -hash_tables](./0x1A-hash_tables)                                           |
 
