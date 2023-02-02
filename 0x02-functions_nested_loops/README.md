@@ -1,5 +1,10 @@
  0x02-functions_nested_loops
  
+ 
+ **Essentials Files to use:
+_putchar.c : A C function that writes a character to stdout.
+main.h : A Header file containing prototypes for all functions written in the project.**
+ 
   0. _putchar
 File : 0-putchar.c
 Required : A program that prints _putchar, followed by a new line.
