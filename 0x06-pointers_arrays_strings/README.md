@@ -44,3 +44,9 @@ File : 7-leet.c
 Required : A function that encodes a string into 1337.
 Expected Results : You are not allowed to use any ternary operation.
 💬 Quote : Mozart composed his music not for the elite, but for everybody. -Andre Rieu
+
+8. Numbers have life; they're not just symbols on paper
+File : 101-print_number.c
+Required : A function that prints an integer.
+Expected Results : You can only use _putchar function to print.
+💬 Quote : Shakuntala Devi : Numbers have life; they're not just symbols on paper.
