@@ -54,3 +54,7 @@ This is not something you should do.
 The goal here is to make sure you understand how an array of array is stored in memory.
 💬 Quote : William R. Alger: The line of life is a ragged diagonal between duty and desire.
 
+
+8. Double pointer, double fun
+File : 100-set_string.c
+Required : A function that sets the value of a pointer to a char.
