@@ -11,3 +11,10 @@ Required : A script called create_static_lib.sh that creates a static library ca
 Henry Ward Beecher, American social reformer (1813-1887) said,
 
 "A library is not a luxury but one of the necessities of life."
+
+
+💬 Quote :
+
+Ray Bradbury once said,
+
+“Without Libraries what have we? We have no past and no future.”
