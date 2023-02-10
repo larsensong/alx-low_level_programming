@@ -43,33 +43,3 @@ Expected Results : If y is lower than 0, the function should return -1
 
 "Once an idea has taken hold of the brain it's almost impossible to eradicate. An idea that is fully formed - fully understood - that sticks; right in there somewhere.
 Leonardo DiCaprio as Cobb - Inception (2010) - IMDb
-5. Your subconscious is looking for the dreamer
-File : 5-sqrt_recursion.c
-Required : A function that returns the natural square root of a number.
-Expected Results : If n does not have a natural square root, the function should return -1.
-💡Fun Fact : “Arthur : Your subconscious is looking for the dreamer; me. Inception (2010)
-
-6. Inception. Is it possible?
-File : 6-is_prime_number.c
-Required : A a function that returns 1 if the input integer is a prime number, otherwise return 0.
-💡Fun Fact : “Saito: Inception. Is it possible? Inception (2010)
-
-7. They say we only use a fraction of our brain's true potential. Now that's when we're awake. When we're asleep, we can do almost anything
-File : 100-is_palindrome.c
-Required : A function that returns 1 if a string is a palindrome and 0 if not.
-Note : An empty string is a palindrome
-💡*Fun Fact :
-
-Cobb : "They say we only use a fraction of our brain's true potential. Now that's when we're awake."
-"When we're asleep, we can do almost anything."
--Leonardo DiCaprio as Cobb
-8. Inception. Now, before you bother telling me it's impossible...
-File : 101-wildcmp.c
-Required : A function that compares two strings and returns 1 if the strings can be considered identical, otherwise return 0.
-Expected Results :
-*s2 can contain the special character .
-The special char * can replace any string (including an empty string)
-💡*Fun Fact :
-
-Cobb: "Inception. Now, before you bother telling me it's impossible"
-Leonardo DiCaprio as Cobb
