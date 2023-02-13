@@ -47,3 +47,10 @@ Expected Results : If y is lower than 0, the function should return -1
 
 "Once an idea has taken hold of the brain it's almost impossible to eradicate. An idea that is fully formed - fully understood - that sticks; right in there somewhere.
 Leonardo DiCaprio as Cobb - Inception (2010) - IMDb
+
+
+5. Your subconscious is looking for the dreamer
+File : 5-sqrt_recursion.c
+Required : A function that returns the natural square root of a number.
+Expected Results : If n does not have a natural square root, the function should return -1.
+💡Fun Fact : “Arthur : Your subconscious is looking for the dreamer; me. Inception (2010)
