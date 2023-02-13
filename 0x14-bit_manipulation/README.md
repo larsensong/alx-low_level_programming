@@ -63,3 +63,14 @@ Expected Results : If n does not have a natural square root, the function should
 File : 6-is_prime_number.c
 Required : A a function that returns 1 if the input integer is a prime number, otherwise return 0.
 💡Fun Fact : “Saito: Inception. Is it possible? Inception (2010)
+
+
+7. They say we only use a fraction of our brain's true potential. Now that's when we're awake. When we're asleep, we can do almost anything
+File : 100-is_palindrome.c
+Required : A function that returns 1 if a string is a palindrome and 0 if not.
+Note : An empty string is a palindrome
+💡*Fun Fact :
+
+Cobb : "They say we only use a fraction of our brain's true potential. Now that's when we're awake."
+"When we're asleep, we can do almost anything."
+-Leonardo DiCaprio as Cobb
