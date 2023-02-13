@@ -57,3 +57,9 @@ File : 5-sqrt_recursion.c
 Required : A function that returns the natural square root of a number.
 Expected Results : If n does not have a natural square root, the function should return -1.
 💡Fun Fact : “Arthur : Your subconscious is looking for the dreamer; me. Inception (2010)
+
+
+6. Inception. Is it possible?
+File : 6-is_prime_number.c
+Required : A a function that returns 1 if the input integer is a prime number, otherwise return 0.
+💡Fun Fact : “Saito: Inception. Is it possible? Inception (2010)
