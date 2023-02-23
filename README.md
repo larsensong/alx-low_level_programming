@@ -1,1 +1,1 @@
-My Readme file intro to hello world in c
+MY readme file for all operations under c programming
