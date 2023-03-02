@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-MY readme file for all operations under c programming
-=======
+
 >Project ### ALX low_level_programming 
 
 <br>
