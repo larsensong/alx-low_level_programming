@@ -57,4 +57,4 @@
 | 22 | [0x18. C -dynamic_libraries](./0x18-dynamic_libraries)                               |
 | 23 | [0x1A. C -hash_tables](./0x1A-hash_tables)                                           |
 
->>>>>>> 04d2a83468adb6b8afe0143cb74f1baa66e0b1eb
+
