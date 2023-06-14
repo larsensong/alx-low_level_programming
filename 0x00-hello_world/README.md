@@ -1,6 +1,6 @@
 # C - Hello, World
 
-In this project, I learned about compilation using `gcc`, entry
+In this project, I learnedall compilation using `gcc`, entry
 points using `main`, and text-printing functions in C.
 
 ## Tasks :page_with_curl:
